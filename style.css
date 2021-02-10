@@ -1,0 +1,14 @@
+.heading{
+    color: #E37E7E;
+    background-color: #696969;
+    display: flex;
+    justify-content: flex-start;
+}
+.origami img{
+    border: 5px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    font-family: cursive;
+}
